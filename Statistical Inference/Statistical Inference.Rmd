@@ -2,9 +2,10 @@
 title: "Statistical Inference Project"
 author: "Shambhavi Malik"
 date: "31/08/2020"
-output:
+output: 
   html_document: default
   pdf_document: default
+  md_document: default
 ---
 ## Simulation Exercise 
 Overview
